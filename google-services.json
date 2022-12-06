@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5434134814",
+    "project_id": "sda-deliverable6",
+    "storage_bucket": "sda-deliverable6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5434134814:android:03b8af4c0423fe7220790f",
+        "android_client_info": {
+          "package_name": "io.sda.sdadeliverable6final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5434134814-ic42uv7u1h8fmlm0sco3igr4t2h5beqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCusGVBTLZ9AgYGXhN0ndsUQCk68iNBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5434134814-ic42uv7u1h8fmlm0sco3igr4t2h5beqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
